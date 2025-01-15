@@ -37,5 +37,9 @@ This project implements a deep learning model for segmenting nuclei in cell imag
 
 This is a high-level overview. Refer to the script for detailed implementation and potential areas for further exploration.
 
+# Architecture of the model
+![mobilenet_v2](https://github.com/user-attachments/assets/961c53b2-d1ea-4d0d-b09d-b80bb5bfcc9b)
+
+
 # Link to the source of data: 
 https://www.kaggle.com/competitions/data-science-bowl-2018/overview
